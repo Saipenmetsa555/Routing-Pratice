@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.about {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.about-img {
+  margin-top: 60px;
+  width: 200px;
+  height: 200px;
+}
+.about-text {
+  font-family: Roboto;
+  color: #6d396b;
+  font-size: 48px;
+}

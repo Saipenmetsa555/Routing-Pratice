@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.home-img {
+  margin-top: 90px;
+  width: 200px;
+  height: 200px;
+}
+.home-text {
+  font-family: Roboto;
+  color: #6d396b;
+  font-size: 48px;
+  padding-bottom: 100px;
+}

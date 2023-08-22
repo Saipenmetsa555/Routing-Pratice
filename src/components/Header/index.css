@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.img {
+  width: 35px;
+  height: 35px;
+  margin-left: 30px;
+  margin-top: 33px;
+}
+.wave-title {
+  color: #12022f;
+  padding-left: 10px;
+  padding-top: 12px;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+.ul {
+  list-style-type: none;
+  display: flex;
+  color: #12022f;
+  margin-right: 20px;
+  font-weight: 600;
+}
+.home {
+  padding-right: 10px;
+  font-family: Roboto;
+  text-decoration: none;
+}
